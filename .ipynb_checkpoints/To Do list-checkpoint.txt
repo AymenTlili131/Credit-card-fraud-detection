@@ -1,6 +1,8 @@
 Split into 4 batches
+dvc :https://www.youtube.com/watch?v=jtXx1wCobno&ab_channel=JCharisTech
 create dagshub account
+------------
 automate feature selection
 do feature engineering/XGboost tutorial
-dvc
+
 MLflow 
